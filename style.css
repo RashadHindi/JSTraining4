@@ -1,0 +1,5 @@
+#month {
+  display: block;   /* ensures select takes a full line */
+  margin-bottom: 20px; /* adds space between select and table */
+}
+
